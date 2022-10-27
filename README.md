@@ -17,9 +17,13 @@
 
 ![image](https://user-images.githubusercontent.com/72044353/198373436-080a96b1-0fa9-4010-a6ce-caa7e4e39e5c.png)
 
-- Call the microservice whenever it is needed. It will return the square root of the given number
+### 3. Request and Receive data
+
+- Call the microservice whenever it is needed using the sample code here
 
 ![image](https://user-images.githubusercontent.com/72044353/198373640-f8d60b14-a4fe-4ad5-8f9e-2917030c25c4.png)
+
+- The command will return the square root of the number provided
 
 ### 3. Run squareroot_service.py before your client file and you are good to go!
 ![image](https://user-images.githubusercontent.com/72044353/198375457-d61413a4-f73e-4dd5-97cf-2cf78e9f8711.png)
