@@ -32,3 +32,6 @@
 ### 1. Make sure you're selecting the right python interpreter
 - You may have several python interpreters to select from previous projects, make sure you're selecting the general one
 ![image](https://user-images.githubusercontent.com/72044353/198375942-3fc6962a-a36f-44ae-8533-bb8bdc65fb6e.png)
+
+## UML Diagram
+![image](https://user-images.githubusercontent.com/72044353/199105665-c0e18bee-e40d-4ed2-bc51-c45b38c19117.png)
